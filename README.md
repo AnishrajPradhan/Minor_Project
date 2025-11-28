@@ -1,5 +1,5 @@
 # Minor_Project
-Here is a professional, research-grade `README.md` file tailored exactly to your project.
+[Here is a professional, research-grade `README.md` file tailored exactly to your project.
 
 You can copy-paste the raw code below directly into your GitHub repository.
 
@@ -28,7 +28,7 @@ By transplanting the **GLCAM** architecture from Grape leaf research to the Toma
 
 ## 📊 Dataset & Setup
 
-  * **Source:** [Kaggle Tomato Disease Multiple Sources](https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources)
+  * **Source:** [Tomato Leaves Dataset](https://www.kaggle.com/datasets/ashishmotwani/tomato)
   * **Classes:** 11 (Bacterial Spot, Early Blight, Late Blight, Leaf Mold, Septoria Spot, Spider Mites, Target Spot, Mosaic Virus, Yellow Curl Virus, Powdery Mildew, Healthy).
   * **Data Split:**
       * **80% Training** (Augmented: Rotation, Flip, Zoom)
@@ -50,7 +50,7 @@ graph LR
     C -->|Proposed| E[GLCAM Block]
     D --> F[Global Average Pooling]
     E --> F
-    F --> G[Softmax Classifier (11 Classes)]
+    F --> G[Softmax Classifier (11 Classes)]](https://www.kaggle.com/datasets/ashishmotwani/tomato)
 ```
 
 -----
@@ -100,7 +100,7 @@ To validate the model's decision-making, we employed **Grad-CAM**.
 
 1.  **Clone the Repo:**
     ```bash
-    git clone https://github.com/yourusername/tomato-disease-glcam.git
+    git clone https://github.com/AnishrajPradhan/Minor_Project.git
     ```
 2.  **Install Dependencies:**
     ```bash
@@ -122,7 +122,7 @@ This project builds upon the following research:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Anishraj Pradhan**
 
-  * **Student ID:** [Your ID]
-  * **Institution:** [Your University]
+  * **Student ID:** [2201287239]
+  * **Institution:** [GITA Autonomous College,BBSR]
