@@ -1,4 +1,3 @@
-````markdown
 # 🍅 Optimizing XSE-TomatoNet: SE vs. GLCAM Attention Comparison
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
